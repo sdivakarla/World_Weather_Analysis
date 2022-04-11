@@ -20,7 +20,8 @@ A map of the cities locations generated between a minimum temperature of 75 degr
 ![WeatherPy_vacation_map](https://user-images.githubusercontent.com/98054953/162783170-b02f675b-dae1-481a-a718-1d87c32c926f.png)
 
 A personal travel itinerary was also made for a trip in Mexico with the travel route as well as hotel names and weather information. 
-![WeatherPy_Travel_map](https://user-images.githubusercontent.com/98054953/162783665-2032bee0-7868-4cf8-aec6-96531d8fd1fb.png) ![WeatherPy_Travel_map_Markers](https://user-images.githubusercontent.com/98054953/162783470-a8369f85-c4be-475e-815b-b08d3da55378.png)
+![WeatherPy_Travel_map](https://user-images.githubusercontent.com/98054953/162784765-240eec7f-97dd-433c-aa7f-9256750ba812.png) ![WeatherPy_Travel_map_Markers](https://user-images.githubusercontent.com/98054953/162784789-86357142-884c-44d0-8aba-6133b3e58cbd.png)
+
 
 
 # Summary 
